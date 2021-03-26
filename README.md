@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Academic Website Template
 
-You can use the [editor on GitHub](https://github.com/flaviocarvalhaes/flaviocarvalhaes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Free as in beer
+This is a free thing. You may download this and use it to create your own website(s), as long as you abide by the license restrictions. As it specifies, there's no need to reference me, the creator of this work, on your own websites.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Buff this out further
+You may add additional components with the [Bootstrapr.io](https://bootstrapr.io) tool. Bootstrapr allows you to rapidly build custom Bootstrap 3 components, and even whole pages in seconds.
 
-### Markdown
+Enjoy! If you like this template, drop me a line and let me know!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flaviocarvalhaes/flaviocarvalhaes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Navbar and footer
+The navbar and footer are included with javascript. This means that if you download this template and run it from your desktop, say, they'll seem to be missing. You'll only see them show if you're running it from a server, from hosting sites such as Netlify, Github Pages, Heroku, etc., or if you're viewing it from within a localhost server on your machine like Mamp/Wamp/Lamp.
